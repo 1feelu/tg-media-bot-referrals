@@ -26,8 +26,8 @@ It supports media management through admin privileges and stores data in MongoDB
 
 ### 1. Clone the repository
 
-git clone https://github.com/USERNAME/PROJECT_NAME.git
-cd PROJECT_NAME
+git clone https://github.com/Card1nal-lzt/tg-media-bot-referrals.git
+cd tg-media-bot-referrals
 
 ### 2. Install dependencies
 
